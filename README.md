@@ -19,7 +19,7 @@ To run the code in this repository, you'll need:
 1. Clone this repository to your local machine:
 
 ```
-[git clone https://github.com/UmangBarewar/Car_Counter.git](https://github.com/UmangBarewar/Car_Counter.git)
+[git clone https://github.com/UmangBarewar/Car_Counter.git]
 ```
 
 2. Download the YOLOv8 model files (weights and configuration) and place them in the appropriate directory within the cloned repository.
