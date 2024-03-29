@@ -60,4 +60,3 @@ This project is not licensed and is provided as-is without any warranty. You are
 
 
 ---
-Ensure to replace placeholders like `[YOLOv8 Model](#)` and `[stock footage with guiding comments](#)` with actual links or descriptions as appropriate. Additionally, provide relevant links to the YOLOv8 model files and any other resources mentioned in the README.
