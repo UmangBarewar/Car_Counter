@@ -43,7 +43,7 @@ python car_counter.py
 
 ![GitHub Logo](Output.png)
 Format: ![Alt Text](url)
-![GitHub Logo](Output2.png)
+![GitHub Logo](Output 2.png)
 Format: ![Alt Text](url)
 
 
