@@ -42,9 +42,9 @@ python car_counter.py
 - Displays the count of vehicles in real-time on the video feed.
 
 ![GitHub Logo](Output.png)
-Format: ![Alt Text](url)
-![GitHub Logo](Output 2.png)
-Format: ![Alt Text](url)
+
+![GitHub Logo](Output2.png)
+
 
 
 ## Contributions
