@@ -54,9 +54,7 @@ Contributions to improve the functionality, performance, or documentation of thi
 ## Credits
 cvzone
 GitHub: https://bit.ly/3woU6PS (This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.)
-Murtaza Hassan, video on opencv helped me a lot. link: https://www.youtube.com/watch?v=WgPbbWmnXJ8&t=8279s
-Tracker function is from 
-We will be using a tracker from github repository: https://github.com/abewley/sort/blob/master/sort.py of Alex Bewley.
+Tracker function is from github repository: https://github.com/abewley/sort/blob/master/sort.py of Alex Bewley.
 
 
 
