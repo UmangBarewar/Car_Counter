@@ -41,6 +41,12 @@ python car_counter.py
 - Counts vehicles passing through a specified region of interest.
 - Displays the count of vehicles in real-time on the video feed.
 
+![GitHub Logo](Output.png)
+Format: ![Alt Text](url)
+![GitHub Logo](Output2.png)
+Format: ![Alt Text](url)
+
+
 ## Contributions
 
 Contributions to improve the functionality, performance, or documentation of this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
